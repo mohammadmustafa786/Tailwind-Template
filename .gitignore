@@ -1,0 +1,16 @@
+# Ignore hidden files and folders
+*.DS_Store
+.git
+.gitignore
+
+# Ignore node modules
+node_modules/
+
+# Ignore build artifacts
+build/
+
+# Ignore Jest test results
+coverage/
+
+# Ignore webpack cache
+.webpack/
